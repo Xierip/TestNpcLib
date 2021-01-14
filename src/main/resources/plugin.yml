@@ -1,0 +1,5 @@
+name: TestNpcLib
+version: @version@
+main: pl.xierip.testnpclib.testnpclib.TestNpcLib
+depend: [NPCLibPlugin]
+authors: [Xierip]
